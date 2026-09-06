@@ -4,7 +4,7 @@
 
 <!-- BANNER GELOMBANG DI ATAS -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fffce0,100:d4ebff&height=200&section=header&text=Hey,%20I'm%20Rizal%20Audi&fontSize=42&fontColor=1a1a1a&animation=fadeIn" />
+  <img src="https://raw.githubusercontent.com/Rizalweh/Rizalweh/main/banner.svg" width="100%" />
 </p>
 
 <!-- TEKS MENGETIK OTOMATIS -->
