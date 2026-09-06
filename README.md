@@ -64,7 +64,11 @@ Tech enthusiast & siswa Software Engineering di **SMK Sangkuriang 1 Cimahi**. Ak
 <!-- ANIMASI ULAR MEMAKAN CONTRIBUTION GRAPH -->
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rizalweh/Rizalweh/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalweh/Rizalweh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalweh/Rizalweh/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Rizalweh/Rizalweh/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 <!-- PENGUNJUNG COUNTER -->
