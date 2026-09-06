@@ -61,6 +61,11 @@ Tech enthusiast & siswa Software Engineering di **SMK Sangkuriang 1 Cimahi**. Ak
   <img src="https://github-profile-trophy.vercel.app/?username=Rizalweh&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+### 🌱 Currently Learning
+- Memperdalam **Laravel** (Eloquent, Middleware, API)
+- Belajar **JavaScript** untuk bikin web makin interaktif
+- Eksplorasi **UI/UX advance** biar desain web makin rapi
+
 <!-- ANIMASI ULAR MEMAKAN CONTRIBUTION GRAPH -->
 ### Contribution Snake
 <p align="center">
