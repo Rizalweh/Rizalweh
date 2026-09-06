@@ -4,7 +4,7 @@
 
 <!-- BANNER GELOMBANG DI ATAS -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rizalweh/Rizalweh/main/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rizalweh/Rizalweh/main/banner(2).svg" width="100%" />
 </p>
 
 <!-- TEKS MENGETIK OTOMATIS -->
