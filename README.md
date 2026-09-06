@@ -66,6 +66,10 @@ Tech enthusiast & siswa Software Engineering di **SMK Sangkuriang 1 Cimahi**. Ak
 - Belajar **JavaScript** untuk bikin web makin interaktif
 - Eksplorasi **UI/UX advance** biar desain web makin rapi
 
+### 🏆 Organisasi & Kegiatan
+- Tim Kreatif sekolah — dokumentasi & produksi video acara sekolah dan pemerintahan
+- Tim Teknisi Sekolah _ teknisi Komputer/laptop dan jaringan internet
+
 <!-- ANIMASI ULAR MEMAKAN CONTRIBUTION GRAPH -->
 ### Contribution Snake
 <p align="center">
