@@ -14,7 +14,7 @@
 
 <!-- BADGE KONTAK -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/rizalaudi-992482389">
+  <a href="www.linkedin.com/in/rizal-audi-992482389">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rijalaudi2605@gmail.com">
@@ -77,6 +77,4 @@ Tech enthusiast & siswa Software Engineering di **SMK Sangkuriang 1 Cimahi**. Ak
 </p>
 
 <!-- BANNER GELOMBANG DI BAWAH -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4ebff,100:fffce0&height=100&section=footer" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9FD4FF,100:FFE28A&height=100&section=footer" /> </p>
