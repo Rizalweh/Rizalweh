@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan otomatis tiap hari
-  workflow_dispatch:      # bisa dijalankan manual juga
+    - cron: "0 0 * * *"   # Berjalan otomatis setiap tengah malam
+  workflow_dispatch:      # Tetap bisa di-trigger manual
   push:
     branches:
       - main
@@ -13,14 +13,31 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 5    # Mencegah action nyangkut terlalu lama
+
     steps:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
+            # 1. Standar Light Mode (SVG)
             dist/github-contribution-grid-snake.svg
+            
+            # 2. Standar Dark Mode (SVG)
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            
+            # 3. Tema Cyberpunk / Neon (SVG)
+            # Ular pink neon dengan background gelap dan grid ungu
+            dist/github-contribution-grid-snake-cyberpunk.svg?color_snake=#ff00ff&color_dots=#161b22,#422e5d,#6b3f87,#954eb3,#c15ce1
+            
+            # 4. Tema Ocean / Laut (SVG)
+            # Ular oranye terang dengan grid gradasi biru
+            dist/github-contribution-grid-snake-ocean.svg?color_snake=#ff9900&color_dots=#ebedf0,#8dbdff,#64a1f4,#4b91f1,#2563eb
+            
+            # 5. Format Animasi GIF (Dark Mode)
+            # Opsional kalau mau dipasang di platform yang tidak support SVG
+            dist/github-contribution-grid-snake.gif?color_snake=orange&palette=github-dark
 
       - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
