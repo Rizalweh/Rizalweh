@@ -27,7 +27,7 @@
 ### Tentang Saya
 Tech enthusiast & siswa Software Engineering di **SMK Sangkuriang 1 Cimahi**. Aku menjembatani dunia coding dan kreativitas — di satu sisi ngoding web pakai PHP & Laravel, di sisi lain aktif mendokumentasikan acara dan memproduksi karya visual yang menarik.
 
-- Software Engineering Student @ SMK Sangkuriang 1 Cimahi | President of English Club (2025–2026)
+- Software Engineering Student @ SMK Sangkuriang 1 Cimahi 
 - Video Editor & Cameraman — Dokumentasi acara sekolah, pemerintahan, dan produksi video end-to-end
 - Visual Designer & Video Editor — Menguasai Canva, CapCut, dan Alight Motion untuk desain feed & poster
 - Web Developer — Fokus pada PHP, Laravel, Bootstrap, dan MySQL
