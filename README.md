@@ -14,7 +14,7 @@
 
 <!-- BADGE KONTAK -->
 <p align="center">
-  <a href="www.linkedin.com/in/rizal-audi-992482389">
+  <a href="https://www.linkedin.com/in/rizal-audi-992482389">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rijalaudi2605@gmail.com">
